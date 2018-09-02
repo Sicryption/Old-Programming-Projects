@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\bin\Debug\XBLSE Spoofer.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\bin\Debug\XBLSE Spoofer.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\bin\Debug\XBLSE Spoofer.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\obj\Debug\XBLSE Spoofer.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\obj\Debug\XBLSE_Spoofer.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\obj\Debug\XBLSE_Spoofer.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\obj\Debug\XBLSE Spoofer.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\obj\Debug\XBLSE Spoofer.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\XBLSE Spoofer\XBLSE Spoofer\obj\Debug\XBLSE Spoofer.pdb

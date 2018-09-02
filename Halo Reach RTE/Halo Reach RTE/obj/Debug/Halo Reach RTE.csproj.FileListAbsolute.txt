@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\bin\Debug\Halo Reach RTE.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\bin\Debug\Halo Reach RTE.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\bin\Debug\Halo Reach RTE.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\obj\Debug\Halo Reach RTE.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\obj\Debug\Halo_Reach_RTE.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\obj\Debug\Halo_Reach_RTE.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\obj\Debug\Halo Reach RTE.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\obj\Debug\Halo Reach RTE.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Halo Reach RTE\Halo Reach RTE\obj\Debug\Halo Reach RTE.pdb

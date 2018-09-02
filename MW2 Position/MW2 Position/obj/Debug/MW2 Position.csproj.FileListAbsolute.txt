@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\bin\Debug\MW2 Position.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\obj\Debug\MW2 Position.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\obj\Debug\MW2_Position.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\obj\Debug\MW2_Position.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\obj\Debug\MW2 Position.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\bin\Debug\MW2 Position.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\bin\Debug\MW2 Position.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\obj\Debug\MW2 Position.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Position\MW2 Position\obj\Debug\MW2 Position.pdb

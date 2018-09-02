@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.exe.licenses
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\bin\Debug\Modified.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\bin\Debug\Modified.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\obj\Debug\Modified.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Modified\Modified\bin\Debug\XRPC.dll

@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\bin\Debug\Happy Wars RTE.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\bin\Debug\Happy Wars RTE.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\bin\Debug\Happy Wars RTE.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\obj\Debug\Happy Wars RTE.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\obj\Debug\Happy_Wars_RTE.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\obj\Debug\Happy_Wars_RTE.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\obj\Debug\Happy Wars RTE.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\obj\Debug\Happy Wars RTE.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Happy Wars RTE\Happy Wars RTE\obj\Debug\Happy Wars RTE.pdb

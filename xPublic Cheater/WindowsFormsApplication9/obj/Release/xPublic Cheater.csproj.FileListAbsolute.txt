@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\WindowsFormsApplication9.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Release\JRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\xPublic Cheater.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.xPublic_Cheater.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\xPublic Cheater.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Release\WindowsFormsApplication9.pdb

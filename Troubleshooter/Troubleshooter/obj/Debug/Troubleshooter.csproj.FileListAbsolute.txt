@@ -1,0 +1,11 @@
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\bin\Debug\Troubleshooter.exe.config
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\bin\Debug\Troubleshooter.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\bin\Debug\Troubleshooter.pdb
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\obj\Debug\Troubleshooter.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\obj\Debug\Troubleshooter.Form1.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\obj\Debug\Troubleshooter.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\obj\Debug\Troubleshooter.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\obj\Debug\Troubleshooter.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\obj\Debug\Troubleshooter.pdb
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\bin\Debug\JRPC.dll
+c:\users\bryce\documents\visual studio 2012\Projects\Troubleshooter\Troubleshooter\bin\Debug\XRPC.dll

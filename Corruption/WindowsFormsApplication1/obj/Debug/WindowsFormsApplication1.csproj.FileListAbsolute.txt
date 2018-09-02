@@ -1,0 +1,11 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Debug\JRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll

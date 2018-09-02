@@ -1,0 +1,10 @@
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\bin\x64\Debug\OSRS Scripts.exe.config
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\bin\x64\Debug\OSRS Scripts.exe
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\bin\x64\Debug\OSRS Scripts.pdb
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS_Scripts.Main.resources
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS_Scripts.Properties.Resources.resources
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS Scripts.csproj.GenerateResource.Cache
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS Scripts.exe
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS Scripts.pdb
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS Scripts.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\x64\Debug\OSRS Scripts.csprojResolveAssemblyReference.cache

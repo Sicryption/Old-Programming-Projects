@@ -1,0 +1,9 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\bin\Debug\Yahoo Account Creator.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\bin\Debug\Yahoo Account Creator.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\bin\Debug\Yahoo Account Creator.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\obj\Debug\Yahoo Account Creator.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\obj\Debug\Yahoo_Account_Creator.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\obj\Debug\Yahoo_Account_Creator.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\obj\Debug\Yahoo Account Creator.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\obj\Debug\Yahoo Account Creator.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Yahoo Account Creator\Yahoo Account Creator\obj\Debug\Yahoo Account Creator.pdb

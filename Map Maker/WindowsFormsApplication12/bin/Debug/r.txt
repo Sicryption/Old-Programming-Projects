@@ -1,0 +1,412 @@
+
+entity(carepackage_friendly_iw6, 12, 8, 0);
+
+entity(carepackage_friendly_iw6, 12, 67, 0);
+
+entity(carepackage_friendly_iw6, 12, 126, 0);
+
+entity(carepackage_friendly_iw6, 12, 185, 0);
+
+entity(carepackage_friendly_iw6, 12, 243, 0);
+
+entity(carepackage_friendly_iw6, 41, 243, 0);
+
+entity(carepackage_friendly_iw6, 70, 243, 0);
+
+entity(carepackage_friendly_iw6, 128, 243, 0);
+
+entity(carepackage_friendly_iw6, 99, 243, 0);
+
+entity(carepackage_friendly_iw6, 186, 243, 0);
+
+entity(carepackage_friendly_iw6, 215, 243, 0);
+
+entity(carepackage_friendly_iw6, 244, 243, 0);
+
+entity(carepackage_friendly_iw6, 273, 243, 0);
+
+entity(carepackage_friendly_iw6, 302, 243, 0);
+
+entity(carepackage_friendly_iw6, 157, 243, 0);
+
+entity(carepackage_friendly_iw6, 302, 185, 0);
+
+entity(carepackage_friendly_iw6, 302, 126, 0);
+
+entity(carepackage_friendly_iw6, 302, 67, 0);
+
+entity(carepackage_friendly_iw6, 302, 8, 0);
+
+entity(carepackage_friendly_iw6, 244, 8, 0);
+
+entity(carepackage_friendly_iw6, 273, 8, 0);
+
+entity(carepackage_friendly_iw6, 215, 8, 0);
+
+entity(carepackage_friendly_iw6, 186, 8, 0);
+
+entity(carepackage_friendly_iw6, 157, 8, 0);
+
+entity(carepackage_friendly_iw6, 128, 8, 0);
+
+entity(carepackage_friendly_iw6, 99, 8, 0);
+
+entity(carepackage_friendly_iw6, 41, 8, 0);
+
+entity(carepackage_friendly_iw6, 70, 8, 0);
+
+entity(carepackage_friendly_iw6, 273, 67, 0);
+
+entity(carepackage_friendly_iw6, 215, 67, 0);
+
+entity(carepackage_friendly_iw6, 244, 67, 0);
+
+entity(carepackage_friendly_iw6, 128, 67, 0);
+
+entity(carepackage_friendly_iw6, 70, 67, 0);
+
+entity(carepackage_friendly_iw6, 41, 67, 0);
+
+entity(carepackage_friendly_iw6, 41, 126, 0);
+
+entity(carepackage_friendly_iw6, 41, 185, 0);
+
+entity(carepackage_friendly_iw6, 70, 185, 0);
+
+entity(carepackage_friendly_iw6, 70, 126, 0);
+
+entity(carepackage_friendly_iw6, 99, 126, 0);
+
+entity(carepackage_friendly_iw6, 99, 185, 0);
+
+entity(carepackage_friendly_iw6, 128, 126, 0);
+
+entity(carepackage_friendly_iw6, 186, 126, 0);
+
+entity(carepackage_friendly_iw6, 157, 185, 0);
+
+entity(carepackage_friendly_iw6, 128, 185, 0);
+
+entity(carepackage_friendly_iw6, 157, 126, 0);
+
+entity(carepackage_friendly_iw6, 157, 67, 0);
+
+entity(carepackage_friendly_iw6, 186, 67, 0);
+
+entity(carepackage_friendly_iw6, 99, 67, 0);
+
+entity(carepackage_friendly_iw6, 186, 185, 0);
+
+entity(carepackage_friendly_iw6, 244, 185, 0);
+
+entity(carepackage_friendly_iw6, 215, 126, 0);
+
+entity(carepackage_friendly_iw6, 244, 126, 0);
+
+entity(carepackage_friendly_iw6, 273, 185, 0);
+
+entity(carepackage_friendly_iw6, 273, 126, 0);
+
+entity(carepackage_friendly_iw6, 215, 185, 0);
+
+entity(carepackage_friendly_iw6, 331, 8, 0);
+
+entity(carepackage_friendly_iw6, 331, 67, 0);
+
+entity(carepackage_friendly_iw6, 331, 126, 0);
+
+entity(carepackage_friendly_iw6, 331, 185, 0);
+
+entity(carepackage_friendly_iw6, 331, 243, 0);
+
+entity(carepackage_friendly_iw6, 331, 302, 0);
+
+entity(carepackage_friendly_iw6, 273, 302, 0);
+
+entity(carepackage_friendly_iw6, 215, 302, 0);
+
+entity(carepackage_friendly_iw6, 302, 302, 0);
+
+entity(carepackage_friendly_iw6, 244, 302, 0);
+
+entity(carepackage_friendly_iw6, 157, 302, 0);
+
+entity(carepackage_friendly_iw6, 186, 302, 0);
+
+entity(carepackage_friendly_iw6, 128, 302, 0);
+
+entity(carepackage_friendly_iw6, 99, 302, 0);
+
+entity(carepackage_friendly_iw6, 70, 302, 0);
+
+entity(carepackage_friendly_iw6, 41, 302, 0);
+
+entity(carepackage_friendly_iw6, 12, 302, 0);
+
+entity(carepackage_friendly_iw6, 331, 302, 30);
+
+entity(carepackage_friendly_iw6, 331, 243, 30);
+
+entity(carepackage_friendly_iw6, 331, 185, 30);
+
+entity(carepackage_friendly_iw6, 331, 126, 30);
+
+entity(carepackage_friendly_iw6, 331, 67, 30);
+
+entity(carepackage_friendly_iw6, 331, 8, 30);
+
+entity(carepackage_friendly_iw6, 273, 302, 30);
+
+entity(carepackage_friendly_iw6, 302, 302, 30);
+
+entity(carepackage_friendly_iw6, 244, 302, 30);
+
+entity(carepackage_friendly_iw6, 215, 302, 30);
+
+
+entity(carepackage_friendly_iw6, 128, 302, 30);
+
+
+entity(carepackage_friendly_iw6, 99, 302, 30);
+
+entity(carepackage_friendly_iw6, 70, 302, 30);
+
+entity(carepackage_friendly_iw6, 12, 302, 30);
+
+entity(carepackage_friendly_iw6, 41, 302, 30);
+
+entity(carepackage_friendly_iw6, 12, 243, 30);
+
+entity(carepackage_friendly_iw6, 12, 185, 30);
+
+entity(carepackage_friendly_iw6, 12, 126, 30);
+
+entity(carepackage_friendly_iw6, 12, 67, 30);
+
+entity(carepackage_friendly_iw6, 12, 8, 30);
+
+entity(carepackage_friendly_iw6, 70, 8, 30);
+
+entity(carepackage_friendly_iw6, 99, 8, 30);
+
+entity(carepackage_friendly_iw6, 41, 8, 30);
+
+entity(carepackage_friendly_iw6, 157, 8, 30);
+
+entity(carepackage_friendly_iw6, 128, 8, 30);
+
+entity(carepackage_friendly_iw6, 215, 8, 30);
+
+entity(carepackage_friendly_iw6, 186, 8, 30);
+
+entity(carepackage_friendly_iw6, 244, 8, 30);
+
+entity(carepackage_friendly_iw6, 302, 8, 30);
+
+entity(carepackage_friendly_iw6, 273, 8, 30);
+
+entity(carepackage_friendly_iw6, 331, 302, 60);
+
+entity(carepackage_friendly_iw6, 331, 243, 60);
+
+entity(carepackage_friendly_iw6, 331, 185, 60);
+
+entity(carepackage_friendly_iw6, 331, 126, 60);
+
+entity(carepackage_friendly_iw6, 331, 67, 60);
+
+entity(carepackage_friendly_iw6, 331, 8, 60);
+
+entity(carepackage_friendly_iw6, 302, 8, 60);
+
+entity(carepackage_friendly_iw6, 273, 8, 60);
+
+entity(carepackage_friendly_iw6, 244, 8, 60);
+
+entity(carepackage_friendly_iw6, 215, 8, 60);
+
+entity(carepackage_friendly_iw6, 186, 8, 60);
+
+entity(carepackage_friendly_iw6, 157, 8, 60);
+
+entity(carepackage_friendly_iw6, 128, 8, 60);
+
+entity(carepackage_friendly_iw6, 99, 8, 60);
+
+entity(carepackage_friendly_iw6, 70, 8, 60);
+
+entity(carepackage_friendly_iw6, 41, 8, 60);
+
+entity(carepackage_friendly_iw6, 12, 8, 60);
+
+entity(carepackage_friendly_iw6, 12, 67, 60);
+
+entity(carepackage_friendly_iw6, 12, 126, 60);
+
+entity(carepackage_friendly_iw6, 12, 185, 60);
+
+entity(carepackage_friendly_iw6, 12, 243, 60);
+
+entity(carepackage_friendly_iw6, 41, 302, 60);
+
+entity(carepackage_friendly_iw6, 12, 302, 60);
+
+entity(carepackage_friendly_iw6, 70, 302, 60);
+
+entity(carepackage_friendly_iw6, 128, 302, 60);
+
+entity(carepackage_friendly_iw6, 99, 302, 60);
+
+
+entity(carepackage_friendly_iw6, 215, 302, 60);
+
+
+entity(carepackage_friendly_iw6, 273, 302, 60);
+
+entity(carepackage_friendly_iw6, 302, 302, 60);
+
+entity(carepackage_friendly_iw6, 244, 302, 60);
+
+entity(carepackage_friendly_iw6, 331, 302, 90);
+
+entity(carepackage_friendly_iw6, 331, 243, 90);
+
+entity(carepackage_friendly_iw6, 273, 243, 90);
+
+entity(carepackage_friendly_iw6, 273, 302, 90);
+
+entity(carepackage_friendly_iw6, 302, 302, 90);
+
+entity(carepackage_friendly_iw6, 302, 243, 90);
+
+entity(carepackage_friendly_iw6, 302, 185, 90);
+
+entity(carepackage_friendly_iw6, 331, 185, 90);
+
+entity(carepackage_friendly_iw6, 331, 126, 90);
+
+entity(carepackage_friendly_iw6, 331, 67, 90);
+
+entity(carepackage_friendly_iw6, 331, 8, 90);
+
+entity(carepackage_friendly_iw6, 302, 67, 90);
+
+entity(carepackage_friendly_iw6, 273, 126, 90);
+
+entity(carepackage_friendly_iw6, 302, 126, 90);
+
+entity(carepackage_friendly_iw6, 273, 185, 90);
+
+entity(carepackage_friendly_iw6, 273, 67, 90);
+
+entity(carepackage_friendly_iw6, 273, 8, 90);
+
+entity(carepackage_friendly_iw6, 302, 8, 90);
+
+entity(carepackage_friendly_iw6, 244, 8, 90);
+
+entity(carepackage_friendly_iw6, 215, 8, 90);
+
+entity(carepackage_friendly_iw6, 186, 8, 90);
+
+entity(carepackage_friendly_iw6, 157, 8, 90);
+
+entity(carepackage_friendly_iw6, 128, 8, 90);
+
+entity(carepackage_friendly_iw6, 70, 8, 90);
+
+entity(carepackage_friendly_iw6, 41, 8, 90);
+
+entity(carepackage_friendly_iw6, 12, 8, 90);
+
+entity(carepackage_friendly_iw6, 12, 67, 90);
+
+entity(carepackage_friendly_iw6, 41, 67, 90);
+
+entity(carepackage_friendly_iw6, 99, 67, 90);
+
+entity(carepackage_friendly_iw6, 99, 8, 90);
+
+entity(carepackage_friendly_iw6, 157, 67, 90);
+
+entity(carepackage_friendly_iw6, 70, 67, 90);
+
+entity(carepackage_friendly_iw6, 128, 67, 90);
+
+entity(carepackage_friendly_iw6, 215, 67, 90);
+
+entity(carepackage_friendly_iw6, 186, 67, 90);
+
+entity(carepackage_friendly_iw6, 244, 67, 90);
+
+entity(carepackage_friendly_iw6, 215, 126, 90);
+
+entity(carepackage_friendly_iw6, 244, 126, 90);
+
+entity(carepackage_friendly_iw6, 186, 126, 90);
+
+entity(carepackage_friendly_iw6, 128, 126, 90);
+
+entity(carepackage_friendly_iw6, 157, 126, 90);
+
+entity(carepackage_friendly_iw6, 99, 126, 90);
+
+entity(carepackage_friendly_iw6, 41, 126, 90);
+
+entity(carepackage_friendly_iw6, 12, 126, 90);
+
+entity(carepackage_friendly_iw6, 70, 126, 90);
+
+entity(carepackage_friendly_iw6, 41, 185, 90);
+
+entity(carepackage_friendly_iw6, 12, 185, 90);
+
+entity(carepackage_friendly_iw6, 12, 243, 90);
+
+entity(carepackage_friendly_iw6, 12, 302, 90);
+
+entity(carepackage_friendly_iw6, 41, 302, 90);
+
+entity(carepackage_friendly_iw6, 41, 243, 90);
+
+entity(carepackage_friendly_iw6, 70, 243, 90);
+
+entity(carepackage_friendly_iw6, 70, 302, 90);
+
+entity(carepackage_friendly_iw6, 99, 243, 90);
+
+entity(carepackage_friendly_iw6, 99, 302, 90);
+
+entity(carepackage_friendly_iw6, 70, 185, 90);
+
+entity(carepackage_friendly_iw6, 99, 185, 90);
+
+entity(carepackage_friendly_iw6, 128, 185, 90);
+
+entity(carepackage_friendly_iw6, 128, 243, 90);
+
+entity(carepackage_friendly_iw6, 128, 302, 90);
+
+entity(carepackage_friendly_iw6, 157, 243, 90);
+
+entity(carepackage_friendly_iw6, 157, 185, 90);
+
+entity(carepackage_friendly_iw6, 186, 185, 90);
+
+entity(carepackage_friendly_iw6, 186, 243, 90);
+
+entity(carepackage_friendly_iw6, 157, 302, 90);
+
+entity(carepackage_friendly_iw6, 186, 302, 90);
+
+entity(carepackage_friendly_iw6, 215, 302, 90);
+
+entity(carepackage_friendly_iw6, 215, 243, 90);
+
+entity(carepackage_friendly_iw6, 244, 302, 90);
+
+entity(carepackage_friendly_iw6, 244, 243, 90);
+
+entity(carepackage_friendly_iw6, 244, 185, 90);
+
+entity(carepackage_friendly_iw6, 215, 185, 90);

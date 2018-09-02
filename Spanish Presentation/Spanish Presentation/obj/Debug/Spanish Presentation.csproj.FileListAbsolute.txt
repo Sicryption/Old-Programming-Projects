@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\bin\Debug\Spanish Presentation.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\bin\Debug\Spanish Presentation.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\bin\Debug\Spanish Presentation.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish_Presentation.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish_Presentation.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish Presentation.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish Presentation.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish Presentation.pdb
+E:\Projects\Spanish Presentation\Spanish Presentation\obj\Debug\Spanish Presentation.pdb

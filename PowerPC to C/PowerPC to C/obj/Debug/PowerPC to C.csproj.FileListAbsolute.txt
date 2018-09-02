@@ -1,0 +1,9 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\bin\Debug\PowerPC to C.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\bin\Debug\PowerPC to C.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\bin\Debug\PowerPC to C.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\obj\Debug\PowerPC to C.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\obj\Debug\PowerPC_to_C.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\obj\Debug\PowerPC_to_C.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\obj\Debug\PowerPC to C.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\obj\Debug\PowerPC to C.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\PowerPC to C\PowerPC to C\obj\Debug\PowerPC to C.pdb

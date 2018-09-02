@@ -1,0 +1,20 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.CorRev.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\CorruptionRevamped.Settings.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.csproj.GenerateResource.Cache
+C:\Users\Bryce\Desktop\Corruption Revamped\Delusion.exe
+C:\Users\Bryce\Desktop\Corruption Revamped\Delusion.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.csprojResolveAssemblyReference.cache
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.exe
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.pdb
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.csprojResolveAssemblyReference.cache
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.CorRev.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.Properties.Resources.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\CorruptionRevamped.Settings.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Delusion.csproj.GenerateResource.Cache
+\\READYSHARE\USB_Storage\Desktop\Corruption Revamped\Delusion.exe
+\\READYSHARE\USB_Storage\Desktop\Corruption Revamped\Delusion.pdb

@@ -1,0 +1,11 @@
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.xPublic_Cheater.resources
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\xPublic Cheater.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\JRPC.dll
+c:\users\bryce\documents\visual studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\xPublic Cheater.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\XRPC.dll

@@ -1,0 +1,9 @@
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\bin\Debug\OSRS Scripts.exe.config
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\bin\Debug\OSRS Scripts.exe
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\bin\Debug\OSRS Scripts.pdb
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\Debug\OSRS Scripts.csprojResolveAssemblyReference.cache
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\Debug\OSRS_Scripts.Main.resources
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\Debug\OSRS_Scripts.Properties.Resources.resources
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\Debug\OSRS Scripts.csproj.GenerateResource.Cache
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\Debug\OSRS Scripts.exe
+c:\users\chaos\documents\visual studio 2017\Projects\OSRS Scripts\OSRS Scripts\obj\Debug\OSRS Scripts.pdb

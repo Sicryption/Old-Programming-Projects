@@ -1,0 +1,10 @@
+﻿  HookTesting.cpp
+c:\users\chaos\documents\visual studio 2015\projects\hooktesting\unsignedengine\processes.h(174): warning C4101: 'buffer': unreferenced local variable
+  Generating Code...
+c:\users\chaos\documents\visual studio 2015\projects\hooktesting\unsignedengine\hooktesting.cpp(25): warning C4715: 'TryInject': not all control paths return a value
+  Compiling...
+  Processes.cpp
+c:\users\chaos\documents\visual studio 2015\projects\hooktesting\unsignedengine\processes.h(174): warning C4101: 'buffer': unreferenced local variable
+  Generating Code...
+  UnsignedEngine.vcxproj -> C:\Users\Chaos\Documents\Visual Studio 2015\Projects\HookTesting\Debug\HookTesting.exe
+  UnsignedEngine.vcxproj -> C:\Users\Chaos\Documents\Visual Studio 2015\Projects\HookTesting\Debug\HookTesting.pdb (Partial PDB)

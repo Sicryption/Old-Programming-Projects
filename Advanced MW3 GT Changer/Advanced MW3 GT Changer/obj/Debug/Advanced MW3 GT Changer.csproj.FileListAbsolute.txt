@@ -1,0 +1,11 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\bin\Debug\Advanced MW3 GT Changer.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\bin\Debug\Advanced MW3 GT Changer.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\bin\Debug\Advanced MW3 GT Changer.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced MW3 GT Changer.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced_MW3_GT_Changer.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced_MW3_GT_Changer.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced MW3 GT Changer.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced MW3 GT Changer.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced MW3 GT Changer.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Advanced MW3 GT Changer\Advanced MW3 GT Changer\obj\Debug\Advanced MW3 GT Changer.exe.licenses

@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\bin\Debug\Titanfall.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\bin\Debug\Titanfall.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\bin\Debug\Titanfall.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\obj\Debug\Titanfall.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\obj\Debug\Titanfall.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\obj\Debug\Titanfall.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\obj\Debug\Titanfall.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\obj\Debug\Titanfall.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Titanfall\Titanfall\obj\Debug\Titanfall.pdb

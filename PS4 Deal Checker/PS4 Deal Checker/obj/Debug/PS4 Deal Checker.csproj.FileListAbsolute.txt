@@ -1,0 +1,9 @@
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\bin\Debug\PS4 Deal Checker.exe.config
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\bin\Debug\PS4 Deal Checker.exe
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\bin\Debug\PS4 Deal Checker.pdb
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\obj\Debug\PS4 Deal Checker.csprojResolveAssemblyReference.cache
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\obj\Debug\PS4_Deal_Checker.Form1.resources
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\obj\Debug\PS4_Deal_Checker.Properties.Resources.resources
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\obj\Debug\PS4 Deal Checker.csproj.GenerateResource.Cache
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\obj\Debug\PS4 Deal Checker.exe
+c:\users\chaos\documents\visual studio 2017\Projects\PS4 Deal Checker\PS4 Deal Checker\obj\Debug\PS4 Deal Checker.pdb

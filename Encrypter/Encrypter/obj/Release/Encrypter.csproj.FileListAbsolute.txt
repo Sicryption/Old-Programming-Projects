@@ -1,0 +1,9 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\bin\Release\Encrypter.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\bin\Release\Encrypter.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\bin\Release\Encrypter.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\obj\Release\Encrypter.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\obj\Release\Encrypter.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\obj\Release\Encrypter.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\obj\Release\Encrypter.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\obj\Release\Encrypter.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Encrypter\Encrypter\obj\Release\Encrypter.pdb

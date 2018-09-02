@@ -1,0 +1,6 @@
+\\READYSHARE\USB_Storage\Projects\Text Document Searcher\Text Document Searcher\obj\Debug\Text Document Searcher.exe
+\\READYSHARE\USB_Storage\Projects\Text Document Searcher\Text Document Searcher\bin\Debug\Text Document Searcher.exe.config
+\\READYSHARE\USB_Storage\Projects\Text Document Searcher\Text Document Searcher\bin\Debug\Text Document Searcher.exe
+\\READYSHARE\USB_Storage\Projects\Text Document Searcher\Text Document Searcher\bin\Debug\Text Document Searcher.pdb
+\\READYSHARE\USB_Storage\Projects\Text Document Searcher\Text Document Searcher\obj\Debug\Text Document Searcher.csprojResolveAssemblyReference.cache
+\\READYSHARE\USB_Storage\Projects\Text Document Searcher\Text Document Searcher\obj\Debug\Text Document Searcher.pdb

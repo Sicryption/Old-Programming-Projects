@@ -1,0 +1,10 @@
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\bin\Debug\Ghost_RTE.exe.config
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\bin\Debug\Ghost_RTE.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\bin\Debug\Ghost_RTE.pdb
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\bin\Debug\JRPC.dll
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\obj\Debug\Ghost_RTE.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\obj\Debug\Ghost_RTE.Main_Form.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\obj\Debug\Ghost_RTE.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\obj\Debug\Ghost_RTE.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\obj\Debug\Ghost_RTE.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Ghost_RTE\Ghost_RTE\obj\Debug\Ghost_RTE.pdb

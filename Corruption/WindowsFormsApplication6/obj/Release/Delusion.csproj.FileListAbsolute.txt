@@ -1,0 +1,12 @@
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Delusion.exe
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\Delusion.pdb
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\DevComponents.DotNetBar2.dll
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\JRPCv2.dll
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\Delusion.csprojResolveAssemblyReference.cache
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.CorRev.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form2.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\Delusion.Properties.Resources.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\CorruptionRevamped.Settings.resources
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\Delusion.csproj.GenerateResource.Cache
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\Delusion.exe
+\\READYSHARE\USB_Storage\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\Delusion.pdb

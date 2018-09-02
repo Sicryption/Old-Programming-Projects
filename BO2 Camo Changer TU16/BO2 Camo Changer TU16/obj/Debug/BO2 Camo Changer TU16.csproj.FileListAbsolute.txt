@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\bin\Debug\BO2 Camo Changer TU16.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\bin\Debug\BO2 Camo Changer TU16.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\bin\Debug\BO2 Camo Changer TU16.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\obj\Debug\BO2 Camo Changer TU16.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\obj\Debug\BO2_Camo_Changer_TU16.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\obj\Debug\BO2_Camo_Changer_TU16.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\obj\Debug\BO2 Camo Changer TU16.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\obj\Debug\BO2 Camo Changer TU16.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 Camo Changer TU16\BO2 Camo Changer TU16\obj\Debug\BO2 Camo Changer TU16.pdb

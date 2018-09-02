@@ -1,0 +1,9 @@
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\bin\Debug\Zulrah Helper.exe.config
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\bin\Debug\Zulrah Helper.exe
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\bin\Debug\Zulrah Helper.pdb
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\obj\Debug\Zulrah Helper.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\obj\Debug\Zulrah_Helper.Form1.resources
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\obj\Debug\Zulrah_Helper.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\obj\Debug\Zulrah Helper.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\obj\Debug\Zulrah Helper.exe
+c:\users\bryce\documents\visual studio 2015\Projects\Zulrah Helper\Zulrah Helper\obj\Debug\Zulrah Helper.pdb

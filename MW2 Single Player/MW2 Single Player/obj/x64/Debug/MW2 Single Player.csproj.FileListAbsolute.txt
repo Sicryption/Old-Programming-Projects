@@ -1,0 +1,13 @@
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\bin\x64\Debug\MW2 Single Player.exe.config
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\bin\x64\Debug\MW2 Single Player.exe
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\bin\x64\Debug\MW2 Single Player.pdb
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2_Single_Player.Form1.resources
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2_Single_Player.Properties.Resources.resources
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2 Single Player.csproj.GenerateResource.Cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2 Single Player.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2 Single Player.exe
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2 Single Player.pdb
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\obj\x64\Debug\MW2 Single Player.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\bin\x64\Debug\Fasm.NET.dll
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\bin\x64\Debug\MemorySharp.dll
+C:\Users\Chaos\Documents\Visual Studio 2017\Projects\MW2 Single Player\MW2 Single Player\bin\x64\Debug\MemorySharp.xml

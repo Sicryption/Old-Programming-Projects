@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\bin\Debug\MW2 Random Testing.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\bin\Debug\MW2 Random Testing.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\bin\Debug\MW2 Random Testing.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\bin\Debug\JRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\obj\Debug\MW2 Random Testing.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\obj\Debug\MW2_Random_Testing.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\obj\Debug\MW2_Random_Testing.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\obj\Debug\MW2 Random Testing.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\obj\Debug\MW2 Random Testing.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\MW2 Random Testing\MW2 Random Testing\obj\Debug\MW2 Random Testing.pdb

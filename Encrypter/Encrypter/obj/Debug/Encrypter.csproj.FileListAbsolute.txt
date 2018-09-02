@@ -1,0 +1,8 @@
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\bin\Debug\Encrypter.exe
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\bin\Debug\Encrypter.pdb
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\obj\Debug\Encrypter.csprojResolveAssemblyReference.cache
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\obj\Debug\Encrypter.Form1.resources
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\obj\Debug\Encrypter.Properties.Resources.resources
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\obj\Debug\Encrypter.csproj.GenerateResource.Cache
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\obj\Debug\Encrypter.exe
+\\READYSHARE\USB_Storage\Projects\Encrypter\Encrypter\obj\Debug\Encrypter.pdb

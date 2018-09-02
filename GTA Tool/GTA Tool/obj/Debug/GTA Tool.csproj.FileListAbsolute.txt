@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\bin\Debug\GTA Tool.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\bin\Debug\GTA Tool.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\bin\Debug\GTA Tool.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\obj\Debug\GTA Tool.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\obj\Debug\GTA_Tool.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\obj\Debug\GTA_Tool.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\obj\Debug\GTA Tool.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\obj\Debug\GTA Tool.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\GTA Tool\GTA Tool\obj\Debug\GTA Tool.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Release\JRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\bin\Release\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

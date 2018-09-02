@@ -1,0 +1,9 @@
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\bin\Debug\Snow.exe.config
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\bin\Debug\Snow.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\bin\Debug\Snow.pdb
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\obj\Debug\Snow.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\obj\Debug\Snow.Snow.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\obj\Debug\Snow.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\obj\Debug\Snow.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\obj\Debug\Snow.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Snow\Snow\obj\Debug\Snow.pdb

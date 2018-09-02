@@ -1,0 +1,4 @@
+First Last,ID,Grade,Parent First,Parent Last,Parent Email
+Test Student,123456,1,Test,Parent,testparent@test.com
+Test Student,234567,2,Test,Parent,testparent@test.com
+Test Student,345678,3,Test,Parent,testparent@test.com

@@ -1,0 +1,10 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\bin\Debug\BO2 TU18 XUID Spoofer.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\bin\Debug\BO2 TU18 XUID Spoofer.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\bin\Debug\BO2 TU18 XUID Spoofer.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\bin\Debug\XRPC.dll
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\obj\Debug\BO2 TU18 XUID Spoofer.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\obj\Debug\BO2_TU18_XUID_Spoofer.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\obj\Debug\BO2_TU18_XUID_Spoofer.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\obj\Debug\BO2 TU18 XUID Spoofer.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\obj\Debug\BO2 TU18 XUID Spoofer.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\BO2 TU18 XUID Spoofer\BO2 TU18 XUID Spoofer\obj\Debug\BO2 TU18 XUID Spoofer.pdb

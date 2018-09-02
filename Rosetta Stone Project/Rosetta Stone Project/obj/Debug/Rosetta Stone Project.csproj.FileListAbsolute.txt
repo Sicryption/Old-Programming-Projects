@@ -1,0 +1,20 @@
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\bin\Debug\Rosetta Stone Project.exe.config
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\bin\Debug\Rosetta Stone Project.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\bin\Debug\Rosetta Stone Project.pdb
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta_Stone_Project.Form1.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta_Stone_Project.Properties.Resources.resources
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.csproj.GenerateResource.Cache
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.exe
+C:\Users\Bryce\Documents\Visual Studio 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.pdb
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.pdb
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.csprojAssemblyReference.cache
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta_Stone_Project.Form1.resources
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta_Stone_Project.Properties.Resources.resources
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.csproj.GenerateResource.cache
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.csproj.CoreCompileInputs.cache
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\bin\Debug\Rosetta Stone Project.exe
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\bin\Debug\Rosetta Stone Project.pdb
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.csproj.CopyComplete
+D:\Long Term Storage\My Computer - 2012\Projects\Rosetta Stone Project\Rosetta Stone Project\obj\Debug\Rosetta Stone Project.exe

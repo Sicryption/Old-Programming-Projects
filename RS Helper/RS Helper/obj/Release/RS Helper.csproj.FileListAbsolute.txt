@@ -1,0 +1,9 @@
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\bin\Release\RS Helper.exe.config
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\bin\Release\RS Helper.exe
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\bin\Release\RS Helper.pdb
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\obj\Release\RS_Helper.RSHelper.resources
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\obj\Release\RS_Helper.Properties.Resources.resources
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\obj\Release\RS Helper.csproj.GenerateResource.Cache
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\obj\Release\RS Helper.exe
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\obj\Release\RS Helper.pdb
+D:\Long Term Storage\My Computer - 2017\Visual Studio 2015\Projects\RS Helper\RS Helper\obj\Release\RS Helper.csprojResolveAssemblyReference.cache

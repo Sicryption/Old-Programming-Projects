@@ -1,0 +1,11 @@
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\bin\Debug\Revision.exe.config
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\bin\Debug\Revision.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\bin\Debug\Revision.pdb
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\bin\Debug\JRPCv2.dll
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\obj\Debug\Revision.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\obj\Debug\Revision.Form1.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\obj\Debug\Revision.Properties.Resources.resources
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\obj\Debug\Revision.csproj.GenerateResource.Cache
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\obj\Debug\Revision.exe
+c:\users\bryce\documents\visual studio 2012\Projects\Revision\Revision\obj\Debug\Revision.pdb
